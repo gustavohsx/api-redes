@@ -1,5 +1,8 @@
 ## Api feita com NestJS
 
+Link do [Dockerhub](https://hub.docker.com/r/gustavohsx/api-redes)
+
+
 ## Instalação
 
 
